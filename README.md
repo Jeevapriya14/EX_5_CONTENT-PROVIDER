@@ -2,9 +2,9 @@
 ## PROGRAM:
 Program to print the contact name and phone number using content providers.
 
-Developed by: PRIYANKA S
+Developed by: JEEVAPRIYA R
 
-Registeration Number : 212222040125
+Registeration Number : 212222220018
 
 
 ## AIM:
